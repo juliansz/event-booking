@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "dontdeleteit",
+        "MONGO_PASSWORD": "KmAWcNcQAhVjilQX",
+        "MONGO_DB": "event-booking"
+    }
+}
